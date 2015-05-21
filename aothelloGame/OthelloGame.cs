@@ -16,7 +16,7 @@ namespace B15_Ex02
           private bool m_gameOnProcess = true;
           private bool m_playerATurn = true;
 
-          public OthelloGame(Board.eBoardSize i_BoardSize, string i_playerAName, string i_PlayerBName)    //cost'r
+          public OtelloGame(Board.eBoardSize i_BoardSize, string i_playerAName, string i_PlayerBName)    //cost'r
           {
                m_Board = new Board(i_BoardSize);
                m_Board.Init();
