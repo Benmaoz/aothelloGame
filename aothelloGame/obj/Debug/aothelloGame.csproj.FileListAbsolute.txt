@@ -1,0 +1,6 @@
+C:\Users\ben\Documents\Visual Studio 2012\Projects\aothelloGame\aothelloGame\bin\Debug\aothelloGame.exe
+C:\Users\ben\Documents\Visual Studio 2012\Projects\aothelloGame\aothelloGame\bin\Debug\aothelloGame.pdb
+C:\Users\ben\Documents\Visual Studio 2012\Projects\aothelloGame\aothelloGame\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\ben\Documents\Visual Studio 2012\Projects\aothelloGame\aothelloGame\obj\Debug\aothelloGame.csprojResolveAssemblyReference.cache
+C:\Users\ben\Documents\Visual Studio 2012\Projects\aothelloGame\aothelloGame\obj\Debug\aothelloGame.exe
+C:\Users\ben\Documents\Visual Studio 2012\Projects\aothelloGame\aothelloGame\obj\Debug\aothelloGame.pdb
